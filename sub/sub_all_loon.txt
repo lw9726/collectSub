@@ -1,7 +1,7 @@
-https://mc.jiedianxielou.workers.dev
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev/
+https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
