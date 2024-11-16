@@ -1,6 +1,6 @@
-https://dadada.acaisbest.com/api/v1/client/subscribe?token=9f1ca63122dc9d3c647c4c06022455d5
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev/
-https://get.ninesub.us.kg/api/v1/client/subscribe?token=9be727d513abd796221c19d6416bd31c
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
