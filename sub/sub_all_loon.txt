@@ -1,6 +1,6 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://vot.278986.xyz/api/v1/client/subscribe?token=c2416cb5915eec15ffd5a81be049256a
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://dy.huidu718.com/dingyue?token=a4f8fee9bfa194f190c4da85eac2c2ac
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://dy.huidu718.com/dingyue?token=ce92fb9898320a4fae889de01929d38f
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
