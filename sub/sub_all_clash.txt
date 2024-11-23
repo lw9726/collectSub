@@ -1,12 +1,5 @@
-http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://gs.kkhhddnn.cn/api/v1/client/subscribe?token=c33b8a8de9ebc42ab121dc150ce3158a
-https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://pqjc.site/api/v1/client/subscribe?token=0d41f5bd237d1ab92b907e1e7d5e5cb3
-https://pqjc.site/api/v1/client/subscribe?token=77e092e239d1d097a0e7d2cf28b215fc&amp;flag=meta
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://ss.81dlg.com/dy/ss?token=ccd4d26cbbb9f3251034e2b7eb51e384
-https://sub.xiaomf.store/link/LLWmOb0Dz6klyVIi?clash=1
-https://url.mtdwoodwork.com/api/v1/client/subscribe?token=2970cd8b058a0a1e1f4e84a30952800e
-https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=39346d0c963582a5c2084c341b774a17
+https://gs.kkhhddnn.cn/api/v1/client/subscribe?token=528782c09b80d5bb5155245247b11ece
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://pqjc.site/api/v1/client/subscribe?token=5821a64c83746e82681f1317c3825235&amp;flag=meta
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=74741ae03b85a930b878fb7db9eba7b9
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
