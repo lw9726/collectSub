@@ -1,6 +1,5 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=bb0b4de5961dc7baf37398cc24c45eb7
-https://www.catssr.xyz/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-http://em7.buzz/v3/subscr?id=377bf036b6b24867bf3adbeb24a90326
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://cat.ikkt.cn/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://url.mtdwoodwork.com/api/v1/client/subscribe?token=2970cd8b058a0a1e1f4e84a30952800e
+https://cf-workers-sub-691.pages.dev/r7td8tt88yy8gi
