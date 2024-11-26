@@ -1,5 +1,8 @@
-https://vot.981176.xyz/api/v1/client/subscribe?token=b5a9324106ed2028e3565ac78a35e8b7&amp;flag=
 https://www.tiziwrops.com/api/v1/client/subscribe?token=6fd5d7a49a593a88ccdfb40fe344579c
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
